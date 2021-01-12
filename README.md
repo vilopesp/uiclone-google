@@ -1,5 +1,5 @@
 <h1 align="center" >
-    <img alt="UI Clone Logo" src="/assets/logo-uiclone.png" />
+    <img alt="UI Clone Logo" src="/assets/logo-uiclone.svg" />
 </h1>
 
 # UI CLONE - GOOGLE SEARCH PAGE

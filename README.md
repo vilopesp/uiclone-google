@@ -12,7 +12,7 @@ A página não está totalmente finalizada ainda, e falta algumas melhorias e mo
 ### Preview:
 
 <h1 align="center" >
-    <img alt="Google Search Page" src="/assets/screenshot.svg" />
+    <img alt="Google Search Page" src="/assets/screenshot.png" />
 </h1>
 
 ## :raising_hand: Autora

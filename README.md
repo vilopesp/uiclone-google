@@ -7,6 +7,6 @@ A página não está totalmente finalizada ainda, e falta algumas melhorias e mo
 
 ### Preview:
 
-<a href="./assets/screenshot.png/" alt="Screenshot ui clone do oogle" />
+<a href="assets/screenshot.png" alt="screenshot google search"></a>
 
 

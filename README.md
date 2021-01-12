@@ -2,7 +2,7 @@
     <img alt="UI Clone Logo" src="/assets/logo-uiclone.svg" />
 </h2>
 
-# <h1 align="center"> GOOGLE SEARCH PAGE </h1>
+## <h1 align="center"> GOOGLE SEARCH PAGE </h1>
 ### :construction: Ainda em fase de melhorias. :construction:
 
 UI Clone da página home de pesquisas do google, feita em HTML e CSS com o intuito de estudar e me aprofundar nas linguagens HTML e CSS.
